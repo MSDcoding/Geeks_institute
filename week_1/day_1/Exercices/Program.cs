@@ -26,5 +26,9 @@ class Program
         //number swapper
         Ex9.NumberSwapper();
 
+        //Simple Multiplication Table
+	    Ex10.Multiplcation();
+
+
     } 
 } 
