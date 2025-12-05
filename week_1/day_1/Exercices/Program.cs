@@ -16,5 +16,11 @@ class Program
         Ex6.SayHello("ahmed");
         Ex6.SayHello("driss");
         Ex6.SayHello("ali");
+
+        //Even Or Odd
+        Ex7.EvenOrOdd();
+
+        //temperature converter
+        Ex8.Temperature();
     } 
 } 
