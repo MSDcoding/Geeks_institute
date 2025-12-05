@@ -1,5 +1,6 @@
 //The Repeater (Functions)
 
+using System;
 
 class Ex6
 {
@@ -7,10 +8,4 @@ class Ex6
 {
         Console.WriteLine("Hello, "+name);
     }
-    static void Main()
-    {
-        SayHello("ahmed");
-        SayHello("driss");
-        SayHello("ali");
-  }
 }

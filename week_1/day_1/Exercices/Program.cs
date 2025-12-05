@@ -1,5 +1,5 @@
 ﻿
-using system;
+using System;
 
 class Program
 {
@@ -7,10 +7,14 @@ class Program
 {
 	
         Ex1.Greeting();
-        Ex2.Persinfo();
+        Ex2.PersInfo();
         Ex3.Calc();
         Ex4.Bouncer();
         Ex5.Countdown();
-        Ex6.SayHello();
+       
+        //SayHello 3 times
+        Ex6.SayHello("ahmed");
+        Ex6.SayHello("driss");
+        Ex6.SayHello("ali");
     } 
 } 
