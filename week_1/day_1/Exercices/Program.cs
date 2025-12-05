@@ -22,5 +22,9 @@ class Program
 
         //temperature converter
         Ex8.Temperature();
+
+        //number swapper
+        Ex9.NumberSwapper();
+
     } 
 } 
