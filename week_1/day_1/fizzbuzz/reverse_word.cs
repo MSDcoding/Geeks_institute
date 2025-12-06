@@ -10,7 +10,7 @@ public static void reverse()
 	string word =Console.ReadLine();
 
 	string reversed = "";
-	int index = word.Lenght - 1; 
+	int index = word.Length - 1; 
 
 	while (index >= 0)
 	{ 

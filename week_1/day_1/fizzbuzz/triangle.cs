@@ -10,7 +10,7 @@ class Triangle
 		{
 			for (int j = 1 ; j <= i ; j++)
 			{
-			  Console.WriteLine("*");
+			  Console.Write("*");
 			}
 			Console.WriteLine();
 		}
