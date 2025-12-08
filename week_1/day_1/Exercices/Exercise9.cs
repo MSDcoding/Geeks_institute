@@ -4,15 +4,16 @@ using System;
 
 class Ex9
 {
-	public static void NumberSwapper()
+	public static void Nmberswap()
 	{
 		int a = 22;
 		int b = 11;
 
+		Console.WriteLine("before swap : a = "+a+", b = "+b);
 		int temp = a;
 		a = b;
 		b = temp;
 
-		Console.WriteLine("a = "+a+", b = "+b);
+		Console.WriteLine(" after swap : a = "+a+", b = "+b);
 	}
 }
