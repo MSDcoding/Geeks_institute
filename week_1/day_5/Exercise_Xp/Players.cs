@@ -1,4 +1,5 @@
 public class Player
 {
-    public int Health = 150;
+    public int HealthMain = 200;
+    public int HealthFeature = 150;
 }
