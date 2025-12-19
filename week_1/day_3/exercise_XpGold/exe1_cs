@@ -16,7 +16,7 @@ static class BirthdayLookup
             { "Ayoub", "2004/05/05" }
         };
 
-        Console.WriteLine("Welcome to the Birthday Lookup!");
+        Console.WriteLine("Welcome to the Birthday Lookup");
         Console.WriteLine("You can look up a persons birthday.");
 
         Console.Write("Enter a name: ");
