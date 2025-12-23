@@ -51,7 +51,7 @@ class Exercise8
             }
         }
 
-        Console.WriteLine("*** RESULTS ***");
+        Console.WriteLine("RESULTS");
         Console.WriteLine("Correct answers: " + correct);
         Console.WriteLine("Wrong answers: " + wrong);
 
@@ -65,7 +65,7 @@ class Exercise8
         }
         if (wrong > 3)
         {
-            Console.WriteLine("You got more than 3 wrong. plaise Try again?");
+            Console.WriteLine("You got more than 3 wrong plaise Try again ");
         }
     }
 }
