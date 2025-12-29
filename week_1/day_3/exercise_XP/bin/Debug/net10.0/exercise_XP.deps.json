@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "exercise_XP/1.0.0": {
+        "runtime": {
+          "exercise_XP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercise_XP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
