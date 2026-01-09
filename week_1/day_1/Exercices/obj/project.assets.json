@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_1\\Exercices\\Exercices.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_1\\Exercices\\Exercices.csproj",
       "projectName": "Exercices",
-      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_1\\Exercices\\Exercices.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_1\\Exercices\\Exercices.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_1\\Exercices\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_1\\Exercices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
