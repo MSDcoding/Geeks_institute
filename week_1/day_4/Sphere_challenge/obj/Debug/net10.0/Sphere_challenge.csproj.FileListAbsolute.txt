@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\bin\Debug\net10.0\Sphere_challenge.exe
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\bin\Debug\net10.0\Sphere_challenge.deps.json
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\bin\Debug\net10.0\Sphere_challenge.runtimeconfig.json
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\bin\Debug\net10.0\Sphere_challenge.dll
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\bin\Debug\net10.0\Sphere_challenge.pdb
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\Sphere_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\Sphere_challenge.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\Sphere_challenge.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\Sphere_challenge.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\Sphere_challenge.sourcelink.json
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\Sphere_challenge.dll
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\refint\Sphere_challenge.dll
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\Sphere_challenge.pdb
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\Sphere_challenge.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\Sphere_challenge\obj\Debug\net10.0\ref\Sphere_challenge.dll
