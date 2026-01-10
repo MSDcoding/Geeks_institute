@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj",
         "projectName": "exercise_XP",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_3\\exercise_XP\\exercise_XP.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_3\\exercise_XP\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_3\\exercise_XP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

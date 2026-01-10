@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_1\\daiy challenges\\daiy challenges.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_1\\daiy challenges\\daiy challenges.csproj",
       "projectName": "daiy challenges",
-      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_1\\daiy challenges\\daiy challenges.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_1\\daiy challenges\\daiy challenges.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Geeks_institute\\week_1\\day_1\\daiy challenges\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Geeks_Institute\\week_1\\day_1\\daiy challenges\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
