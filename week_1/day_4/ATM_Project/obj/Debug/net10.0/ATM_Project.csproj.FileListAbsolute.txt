@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\bin\Debug\net10.0\ATM_Project.exe
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\bin\Debug\net10.0\ATM_Project.deps.json
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\bin\Debug\net10.0\ATM_Project.runtimeconfig.json
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\bin\Debug\net10.0\ATM_Project.dll
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\bin\Debug\net10.0\ATM_Project.pdb
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\ATM_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\ATM_Project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\ATM_Project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\ATM_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\ATM_Project.sourcelink.json
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\ATM_Project.dll
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\refint\ATM_Project.dll
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\ATM_Project.pdb
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\ATM_Project.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_4\ATM_Project\obj\Debug\net10.0\ref\ATM_Project.dll
