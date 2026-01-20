@@ -78,11 +78,6 @@ Training Objectives
 
 - Showcase practical Unity and C# projects
 
-- Serve as a portfolio for future opportunities
-    Status.
-
-- This repository is part of a training program and is intended for learning and demonstration purposes.
-
-Author
+-------> Author: 
 
 Moussaoui Driss (MSDcoding)
