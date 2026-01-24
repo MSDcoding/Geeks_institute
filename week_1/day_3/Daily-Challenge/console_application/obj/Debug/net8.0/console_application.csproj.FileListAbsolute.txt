@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\bin\Debug\net8.0\console_application.exe
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\bin\Debug\net8.0\console_application.deps.json
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\bin\Debug\net8.0\console_application.runtimeconfig.json
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\bin\Debug\net8.0\console_application.dll
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\bin\Debug\net8.0\console_application.pdb
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\console_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\console_application.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\console_application.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\console_application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\console_application.sourcelink.json
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\console_application.dll
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\refint\console_application.dll
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\console_application.pdb
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\console_application.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Geeks_Institute\week_1\day_3\Daily-Challenge\console_application\obj\Debug\net8.0\ref\console_application.dll
