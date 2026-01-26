@@ -1,0 +1,11 @@
+# Unity
+*_Data/
+*.resS
+*.resource
+
+# Presentations
+*.pptx
+
+# .NET
+bin/
+obj/
