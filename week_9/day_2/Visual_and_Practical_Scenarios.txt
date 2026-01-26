@@ -1,0 +1,13 @@
+8. Look at the description below and identify the principle:
+"A dog stops running suddenly, but its long floppy ears keep moving forward for a split second before settling back."
+Answer: Follow Through
+
+
+
+9. Why is "Appeal" important for a villain character?
+B) Because the character design needs to be interesting and charismatic to hold the viewer's attention.
+
+
+
+10. You are creating a 3D model of a character. You add a virtual "skeleton" to the mesh so it can be posed. What is this process called?
+Answer: Rigging

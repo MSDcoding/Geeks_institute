@@ -1,0 +1,10 @@
+5. Which medium is best suited for "Straight Ahead" animation due to its unpredictable physics?
+B) Hand-drawn Fire or Water effects
+
+
+6. What is the main difference between "Keyframes" and "In-betweens"?
+A) Keyframes are the main poses; In-betweens are the frames that connect them.
+
+
+7. "Drawing on Twos" means:
+B) Holding one drawing for two frames (resulting in 12 drawings per second).

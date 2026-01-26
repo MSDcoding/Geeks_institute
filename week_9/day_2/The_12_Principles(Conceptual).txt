@@ -1,0 +1,8 @@
+1. You are animating a bowling ball falling onto a wooden floor. Compared to a tennis ball, how should you apply "Squash and Stretch"?
+B) Give it almost no squash to show its stiffness and density.
+2. A character prepares to throw a punch by pulling their arm back first. Which principle is being used?
+C) Anticipation
+3. In the "Volume Rule," if an object squashes (gets shorter) by 50%, what must happen to its width?
+B) It must get wider to maintain the same mass.
+4. You notice an animation looks "robotic" and "mechanical." Which principle is likely missing?
+A) Slow In and Slow Out
