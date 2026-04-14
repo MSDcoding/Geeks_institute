@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\bin\Debug\net10.0\exercise_XP.exe
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\bin\Debug\net10.0\exercise_XP.deps.json
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\bin\Debug\net10.0\exercise_XP.runtimeconfig.json
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\bin\Debug\net10.0\exercise_XP.dll
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\bin\Debug\net10.0\exercise_XP.pdb
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\exercise_XP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\exercise_XP.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\exercise_XP.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\exercise_XP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\exercise_XP.sourcelink.json
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\exercise_XP.dll
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\refint\exercise_XP.dll
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\exercise_XP.pdb
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\exercise_XP.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Geeks_institute\week_1\day_3\exercise_XP\obj\Debug\net10.0\ref\exercise_XP.dll
